@@ -1,10 +1,14 @@
 ### OpenJumper
 
-![Screenshot](v1.0.1.gif)
+![Screenshot](v1.0.2.gif)
 
 Open Source Platform Game using Game Maker Studio 2
 
 ### Changelog
+v1.0.2 
+- Added better code for controls and collisions
+- Added double jumping
+- Added walking/jumping/falling left animations
 
 v1.0.1 
 - Changed Tileset to Kenny's Platformer (http://kenney.nl)
